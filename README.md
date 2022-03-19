@@ -12,4 +12,4 @@ The user will go through a series of questions and be lead through prompts to ma
 
 
 ## Walk-through
-<iframe src="https://drive.google.com/file/d/12nJtLyftZBttkTQ6-yeq53YMp8Z4u0XS/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/12nJtLyftZBttkTQ6-yeq53YMp8Z4u0XS/view
