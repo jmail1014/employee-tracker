@@ -12,5 +12,20 @@
     "seed": "node db/seeds.sql",
     "test": "jest",
     "start": "node server.js"
-  }
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmail1014/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmail1014/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/jmail1014/employee-tracker#readme"
 }
